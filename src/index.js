@@ -1,10 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import RouletteGun from './RoulletteGun';
 
 
 ReactDOM.render(
-    <App />,  document.getElementById('root')
+    <RouletteGun bulletInChamber={4} />,  document.getElementById('root')
+    //<RouletteGun />,  document.getElementById('root')
 );
 
