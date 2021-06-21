@@ -1,3 +1,2 @@
-JAngus - 06/08/2021: Created 3 branches in the react-state-exercises folder... HelloWorld, Bomb,
-and Roulette (Roullette) Gun.  Decided to do a Pull Request + Merge using RouletteGun as practice for me.
-We'll see how it goes!!
+JAngus - 06/21/2021: Now 6 branches for react-state-exercises.  Did pull request and merge of Accordion,
+which has code that I copied from the Thinkful solution (as I was stumped).
